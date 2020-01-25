@@ -1,1 +1,12 @@
 City College of San Francisco
+
+# Student Email Domain
+mail.ccsf.edu
+
+https://www.ccsf.edu
+
+https://www.ccsf.edu/en/educational-programs/cte/exploring/itcs.html
+
+https://www.ccsf.edu/en/educational-programs/school-and-departments/school-of-science-and-mathematics/computer-science.html
+
+https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerScienceMajor.pdf
